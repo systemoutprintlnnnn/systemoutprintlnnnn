@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hello, I'm Timmy ZHOU
+
+## 🚀 About Me
+- 💻 [Your Role/Position] passionate about Backend / AI Coding / Vibe Everything using LLM
+- 🌱 Currently learning GO / Prompt Engineering / RAG / MCP Development
+- 🔭 Interning on DJI Automotive
+- 🎓 Studying at Hong Kong University of Science and Technology(Guangzhou)
+- 💬 Ask me about Prompt Engineering / LLM Application
+- 📫 How to reach me: tzhou125@hkust-gz.edu.cn
 
 <!--
 **systemoutprintlnnnn/systemoutprintlnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
