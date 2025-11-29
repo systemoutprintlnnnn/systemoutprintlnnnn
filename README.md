@@ -2,10 +2,10 @@
 
 ## 🚀 About Me
 - 💻 Passionate about Backend / AI Coding / Vibe Everything using LLM
-- 🌱 Currently learning Go / Prompt Engineering / RAG / MCP Development
-- 🔭 Interning on Tencent Music
+- 🌱 Currently learning Golang / Prompt Engineering / RAG / MCP Development
+- 🔭 Interning on [Framia](framia.pro)
 - 🎓 Studying at Hong Kong University of Science and Technology(Guangzhou)
-- 💬 Ask me about Prompt Engineering / LLM Application
+- 💬 Ask me about Golang / Prompt Engineering / LLM Application
 - 📫 How to reach me: tzhou125@connect.hkust-gz.edu.cn
 
 <!--
